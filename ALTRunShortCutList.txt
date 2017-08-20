@@ -1,0 +1,43 @@
+F0       |                    |MyDocument                    |我的文档                      |explorer.exe
+F12      |                    |notepad                       |记事本                        |notepad
+F0       |                    |mspaint                       |画图                          |mspaint
+F5       |                    |Calc                          |计算器                        |calc
+F0       |                    |Desktop                       |显示桌面                      |@.\WinCtl.exe MinAll
+F1       |                    |msconfig                      |系统配置                      |msconfig
+F4       |                    |Reg                           |注册表编辑器                  |regedt32
+F1       |                    |myip                          |我的IP地址                    |nslookup
+F2       |                    |dev                           |设备管理器                    |devmgmt.msc
+F1       |                    |Taskmgr                       |任务管理器                    |taskmgr
+F0       |                    |ShutDown                      |立即关机                      |shutdown /s /t 5
+F1       |                    |Reboot                        |立即重启                      |shutdown /r /t 5
+
+F0       |                    |Windows                       |Windows 目录                  |%WINDIR%
+F1       |                    |System32                      |System32 目录                 |%WINDIR%\System32
+F1       |                    |ProgramFiles                  |Program Files 目录            |%PROGRAMFILES%
+F10      |                    |Recent                        |最近打开文件 目录             |%USERPROFILE%\Recent
+
+F14      |URL_Query           |b                             |百度 搜索引擎                 |http://www.baidu.com/s?wd=
+F14      |UTF8_Query          |g                             |Google 搜索引擎               |http://www.google.com/search?q=
+F9       |URL_Query           |zd                            |百度知道 搜索引擎             |http://zhidao.baidu.com/q?ct=17&pn=0&tn=ikaslist&rn=10&word=
+F0       |UTF8_Query          |v                             |VeryCD 搜索引擎               |http://www.verycd.com/search/folders?kw=
+F0       |UTF8_Query          |y                             |Yahoo 搜索引擎                |http://search.yahoo.com/search?p=
+
+F15      |                    |Upgrade                       |前往 ALTRun 升级网址          |http://journeyboy.blog.sohu.com/112820379.html
+F0       |                    |Config                        |编辑 ALTRun 配置              |.\ALTRun.ini
+
+F0       |                    |AddRemoveProgram              |添加/删除程序                 |appwiz.cpl
+F0       |                    |ControlPanel                  |控制面板                      |control.exe
+F0       |                    |InternetConnection            |Internet控制                  |control.exe Inetcpl.cpl ,4
+F0       |                    |SystemProperty                |系统属性                      |Sysdm.cpl
+F101     |No_Encoding         |r                             |运行                          |{%p}
+F20      |                    |UnHide                        |恢复窗口                      |@.\WinCtl.exe UnHide
+F2       |                    |idea                          |idea                          |D:\IDEA\IntelliJ IDEA Community Edition 2016.1.2\bin\idea.exe
+F28      |                    |wiz                           |wiz                           |D:\Program Files\WizNote\Wiz.exe
+F4       |                    |cloud                         |cloud                         |D:\Program Files\BaiduYunGuanjia\baidunetdisk.exe
+F2       |                    |qq                            |qq                            |D:\Program Files\Bin\QQScLauncher.exe
+F67      |                    |chrome                        |chrome                        |C:\Users\tiancheng\AppData\Local\Google\Chrome\Application\chrome.exe
+F3       |                    |as                            |Android Studio                |C:\Program Files\Android\Android Studio\bin\studio64.exe
+F3       |No_Encoding         |jianguo                       |Nutstore                      |D:\Program Files\Nutstore\Nutstore.exe
+F3       |                    |st                            |SourceTree                    |C:\Users\tiancheng\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Atlassian\SourceTree
+F4       |                    |git                           |git                           |C:\Users\tiancheng\AppData\Local\GitHub\GitHub.appref-ms
+F4       |                    |sublime                       |sublime                       |D:\Program Files\Sublime Text 3\sublime_text.exe
